@@ -1,3 +1,1 @@
-import API_KEY from '../../api_key.js'
-
-console.log(API_KEY)
+const API_KEY = '6a084b8d34522755f7236486f4a97cc2'
